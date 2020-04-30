@@ -8,4 +8,8 @@ public class TestService {
     public int findNum(){
         return 1+1;
     }
+
+    public Boolean getFlag(){
+        return true;
+    }
 }
